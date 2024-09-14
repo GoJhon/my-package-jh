@@ -1,7 +1,6 @@
 name: my_package_jh
 description: "Dependencia de ejemplo"
 version: 0.0.1
-author: Jhon Santander
 homepage: https://example.com/
 
 environment:
