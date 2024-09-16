@@ -1,7 +1,7 @@
 name: my_package_jh
 description: "Dependencia de ejemplo"
 version: 0.0.1
-homepage: https://example.com/
+homepage: https://cars-ok.com/
 
 environment:
   sdk: '>=3.4.1 <4.0.0'
